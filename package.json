@@ -1,0 +1,25 @@
+{
+  "name": "cloud_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbrychtFilip/cloud_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbrychtFilip/cloud_test/issues"
+  },
+  "homepage": "https://github.com/AlbrychtFilip/cloud_test#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1645.0",
+    "dotenv": "^16.4.5",
+    "yargs": "^17.7.2"
+  }
+}
