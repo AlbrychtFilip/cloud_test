@@ -1,5 +1,8 @@
 #!/usr/bin/env node
 
+// NOTE: I wasn't able to test this because the credentials I sent didn't work.
+// todo: Add limitation for a-wing prefix
+
 require('dotenv').config();
 const AWS = require('aws-sdk');
 const yargs = require('yargs');
